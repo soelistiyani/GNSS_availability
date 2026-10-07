@@ -1,0 +1,26 @@
+[
+  {
+    "station": "DEMPO/CDEM",
+    "station_name": "CDEM",
+    "volcano": "DEMPO",
+    "folder_station": "CDEM"
+  },
+  {
+    "station": "DEMPO/CTAK",
+    "station_name": "CTAK",
+    "volcano": "DEMPO",
+    "folder_station": "CTAK"
+  },
+  {
+    "station": "DEMPO/GRTM",
+    "station_name": "GRTM",
+    "volcano": "DEMPO",
+    "folder_station": "GTMD"
+  },
+  {
+    "station": "DEMPO/GTRM",
+    "station_name": "GTRM",
+    "volcano": "DEMPO",
+    "folder_station": "GTRM"
+  }
+]

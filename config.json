@@ -1,0 +1,25 @@
+{
+  "data_directory": "rawdata",
+  "output_directory": "output",
+  "data_layout": "auto",
+  "volcanoes": "ALL",
+  "station_filter": "ALL",
+  "station_name_source": "header",
+  "period": {
+    "start": "ALL",
+    "end": "ALL"
+  },
+  "time_scale": "utc",
+  "split_by_volcano": true,
+  "filter_files_by_date": false,
+  "interval_seconds": null,
+  "image": {
+    "mode": "auto",
+    "format": "both",
+    "dpi": 150,
+    "title": "GNSS observation availability"
+  },
+  "converter_timeout": 180,
+  "stations": {},
+  "converters": {}
+}
